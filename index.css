@@ -1,0 +1,51 @@
+.footer{
+    background-color: rgb(68, 200, 240);
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+}
+.navbar{
+    background-color: rgb(68, 200, 240);
+    height: 7rem;
+}
+.nav-link{
+    font-size: 1.3rem;
+}
+.carousel-inner{
+    max-height: 20rem;
+border-radius: 3rem;
+
+}
+body{
+    background-color: rgb(22, 21, 21);
+}
+.titrespage{
+    color:  rgb(68, 200, 240);
+    font: 3em sans-serif;
+}
+.actu{
+    padding-left: 8rem;
+    padding-right:8rem;
+}
+.actualites{
+    color:  rgb(68, 200, 240);
+    font-size: 2.8rem;
+}
+.contenu_actu{
+    background-color: rgb(244, 246, 247);
+    border-radius: 1.5rem;
+}
+.img_fluidactu{
+    min-height: 15rem;
+    border-radius: 1.5rem;
+   
+}
+.notre_salle{
+    color: rgb(68, 200, 240);
+    font-size: 2.8rem;
+}
+.img_notre_salle{
+    max-height: 35rem;
+    min-height :17rem; 
+    border-radius: 1.5rem;
+}
+/*# sourceMappingURL=index.css.map */
