@@ -1,1 +1,28 @@
-site entrainement salle de sport
+Réaliser une interface dynamique
+
+Création d’un site vitrine d’une salle de sport suivant les différentes ressources HTML, CSS et Javascript. 
+Ceci est une évaluation. 
+Le site devra remplir les conditions suivantes :
+Code propre, respect des bonnes pratiques 
+Être responsive
+5 pages :
+Home (carrousel)
+About
+Abonnement
+Galerie
+Contact (formulaire de contact)
+Formulaire de contact avec les champs suivants :
+Sujet du mail
+Adresse mail de l'expéditeur
+Contenu du mail
+TOUS les champs du formulaire doivent être vérifiés (JS)
+Pas de javascript intrusif
+Utilisation d'un Framework CSS (au choix). (pas de code pure, il faut aller le plus vite possible)
+Créer un zoning 
+Créer une maquette
+Créer un repo, faire la sauvegarde midi et soir
+Créer un Trello
+Point a validé pour l’évaluation : 
+Maquetter une application
+Réaliser une interface utilisateur web statique et adaptable
+Développer une interface utilisateur web dynamique

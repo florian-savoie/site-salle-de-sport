@@ -19,4 +19,12 @@ body{
 .footer2{
     background-color:rgb(125, 201, 224); ;
 }
+form{
+    background-color: azure;
+    border-radius: 2rem;
+}
+
+
+
+
 /*# sourceMappingURL=index.css.map */
