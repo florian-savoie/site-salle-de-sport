@@ -1,0 +1,35 @@
+.footer{
+    background-color: rgb(68, 200, 240);
+    border-top-left-radius: 1.8rem;
+    border-top-right-radius: 1.8rem;
+}
+.navbar{
+    background-color: rgb(68, 200, 240);
+    height: 7rem;
+}
+.nav-link{
+    font-size: 1.3rem;
+
+
+}
+body{
+    background-color: rgb(22, 21, 21);
+}
+
+.footer2{
+    background-color:rgb(125, 201, 224); ;
+}
+.img_galerie{
+    width: 100%;
+    min-height: 20rem;
+    max-height: 20rem;
+}
+.container_galerie{
+border-radius: 1.5rem;
+    background-color: aliceblue;
+}
+.titres_galerie{
+color: rgb(69, 192, 230); ;
+font-size: 3rem;
+}
+/*# sourceMappingURL=index.css.map */
